@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-lander",
-  "author": "Hunter Chang",
-  "repository": "https://github.com/codebushi/gatsby-starter-lander",
+  "name": "Gloowa Web Agency",
+  "author": "Gloowa",
+  "repository": "",
   "version": "1.1.0",
   "license": "MIT",
   "scripts": {
@@ -12,8 +12,10 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@fontsource/wallpoet": "^4.5.0",
     "gatsby": "^4.0.0",
     "gatsby-plugin-emotion": "^7.0.0",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-theme-codebushi": "^1.0.0",
     "postcss": "^8.3.8",
     "react": "^17.0.1",

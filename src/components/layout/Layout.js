@@ -1,6 +1,7 @@
 import React from 'react';
 import Footer from './Footer';
 import Header from './Header';
+import "@fontsource/wallpoet"
 
 const Layout = ({ children }) => {
   return (
