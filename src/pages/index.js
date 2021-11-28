@@ -9,6 +9,7 @@ import StatsBox from '../components/StatsBox';
 import customerData from '../data/customer-data';
 import HeroImage from '../svg/HeroImage';
 import SvgCharts from '../svg/SvgCharts';
+import AnchorLink from 'react-anchor-link-smooth-scroll';
 
 const Index = () => (
   <Layout>
@@ -22,7 +23,7 @@ const Index = () => (
           GLOOWA est une agence spécialisée dans le conseil, l'accompagnement et la transition digitale des TPE/PME.
           </p>
           <p className="mt-8 md:mt-12">
-            <Button size="lg">Planifier un RDV</Button>
+            <AnchorLink className="px-4" href="#clients"><Button size="lg">Planifier un RDV</Button></AnchorLink>
           </p>
           {/* <p className="mt-4 text-gray-600">Sed fermentum felis ut cursu</p> */}
         </div>
@@ -182,7 +183,7 @@ Des solutions en Web-marketing vous seront proposées afin que votre site puisse
     </section> */}
     <section id="clients" className="py-20 lg:py-40">
       <div className="container mx-auto">
-        <LabelText className="mb-8 text-gray-600 text-center">What customers are saying</LabelText>
+        <LabelText className="mb-8 text-gray-600 text-center">Ce que disent nos Clients …</LabelText>
         <div className="flex flex-col md:flex-row md:-mx-3">
           {customerData.map(customer => (
             <div key={customer.customerName} className="flex-1 px-3">
