@@ -2,7 +2,7 @@ import React from 'react';
 
 const LogoIcon = () => (
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="205.000000pt" height="65.000000pt" viewBox="0 0 205.000000 65.000000"
+ width="205.000000pt" height="40.000000pt" viewBox="55 0 205.000000 65.000000"
  preserveAspectRatio="xMidYMid meet">
 
 <g transform="translate(0.000000,65.000000) scale(0.100000,-0.100000)"

@@ -42,7 +42,7 @@ vous offrir un SAV rapide et de qualité */}
         <h2 className="text-lg font-semibold">Social Media</h2>
         <ul className="mt-4 leading-loose">
           <li>
-            <a href="https://fr.linkedin.com/in/desanctisantonio">Linkedin</a>
+            <a href="https://fr.linkedin.com/company/gloowa">Linkedin</a>
           </li>
           <li>
             <a href="https://twitter.com/antoniods">Twitter</a>
