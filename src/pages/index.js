@@ -23,7 +23,7 @@ const Index = () => (
           GLOOWA est une agence spécialisée dans le conseil, l'accompagnement et la transition digitale des TPE/PME.
           </p>
           <p className="mt-8 md:mt-12">
-            <AnchorLink className="px-4" href="#clients"><Button size="lg">Planifier un RDV</Button></AnchorLink>
+            <AnchorLink className="px-4" href="#contact"><Button size="lg">Planifier un RDV</Button></AnchorLink>
           </p>
           {/* <p className="mt-4 text-gray-600">Sed fermentum felis ut cursu</p> */}
         </div>
