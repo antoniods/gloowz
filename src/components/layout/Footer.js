@@ -34,12 +34,12 @@ vous offrir un SAV rapide et de qualité */}
             <a href="/#">Terms &amp; Conditions</a>
           </li>
           <li>
-            <a href="/#">Privacy Policy</a>
+            <a href="/#">Confidentialité</a>
           </li>
         </ul>
       </div>
       <div className="flex-1 px-3">
-        <h2 className="text-lg font-semibold">Social Media</h2>
+        <h2 className="text-lg font-semibold">Social Media </h2>
         <ul className="mt-4 leading-loose">
           <li>
             <a href="https://fr.linkedin.com/company/gloowa">Linkedin</a>
